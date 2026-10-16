@@ -1,0 +1,7 @@
+{
+  "appId": "it.flubatir.gptcore",
+  "appName": "GPT CORE",
+  "webDir": "www",
+  "server": { "androidScheme": "https", "cleartext": true },
+  "android": { "allowMixedContent": true }
+}
